@@ -1,17 +1,19 @@
-# Unity RPG Inventory UI
+# TowerFall Inventory System (Unity C#)
 
-A mobile-friendly inventory system for RPG-style games.  
-Used in a roguelike tower project with gear, upgrades, and resource management.
+Mobile-friendly RPG inventory and upgrade system, designed for roguelike tower games.
 
-### Features
-- Item upgrades (coins, shards)
-- Level system (0 to 4)
-- Filtering by item type
-- Passive effects and stat bonuses
-- Dynamic UI updates
+## 🧩 Features
+- Gear types: Weapon, Helmet, Armor, Legs, Ring, Amulet
+- Level-up system (0 to 4) with visual progress
+- Coin & shard based upgrades
+- Passive effects system integration
+- ScriptableObjects for data structure
+- Dynamic UI updates (stats, icons, rarity)
 
-### Tech Stack
-- Unity + C#
-- ScriptableObjects for item data
-- Mobile-optimized interface
+## 💻 Technologies
+- Unity 2021+
+- C# scripts
+- ScriptableObjects
+- Mobile UI scaling
 
+Created by [hxadxche](https://t.me/hisashidev)
