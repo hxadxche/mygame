@@ -16,4 +16,4 @@ Mobile-friendly RPG inventory and upgrade system, designed for roguelike tower g
 - ScriptableObjects
 - Mobile UI scaling
 
-Created by [hxadxche](https://t.me/hisashidev)
+Created by [Хисаши](https://t.me/hisashidev)
